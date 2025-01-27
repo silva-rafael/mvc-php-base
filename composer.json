@@ -1,0 +1,22 @@
+{
+    "name": "rafae/teste01",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/Routes/routes.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "rafael-silva",
+            "email": "rafaelribeirodasilva7@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.7",
+        "slim/twig-view": "^3.4"
+    }
+}
