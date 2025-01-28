@@ -2,9 +2,8 @@
 
 namespace App\Controllers;
 
-class UserController
+class ProdutoController
 {
-
     public function home()
     {
         return;

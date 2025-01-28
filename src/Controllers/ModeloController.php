@@ -2,9 +2,8 @@
 
 namespace App\Controllers;
 
-class UserController
+class ModeloController
 {
-
     public function home()
     {
         return;
